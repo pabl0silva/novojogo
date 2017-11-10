@@ -1,4 +1,4 @@
-		var SOURCE_IMAGES = "images/";
+		var SOURCE_IMAGES = "/images/";
 		var contextElement = document.getElementById("game");
 		contextElement.width = 600;
 		contextElement.height = 600;
@@ -339,3 +339,5 @@ function Ranking (){
 		score.innerHTML  = innerHTML;
 	}
 }
+
+<!-- Jogo Feito Por Pablo Silva Meu Facebook: https://www.facebook.com/pablorsiilva -->
