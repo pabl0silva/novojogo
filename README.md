@@ -1,7 +1,6 @@
 minesweeper-html5
 =================
 
-Campo minado apresentado a disciplina de Jogos Digitais para WEB - Fatec Carapicuíba com três niveis diferentes.  
 
 ![Print][1]
 
